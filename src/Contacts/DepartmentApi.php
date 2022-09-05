@@ -7,18 +7,18 @@
  * Time: 21:53
  */
 
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 /**
  * 企业微信部门api
  *
  * Class DepartmentApi
- * @package Zwei\WorkWechat\Contacts
+ * @package Yong\WorkWechat\Contacts
  */
 class DepartmentApi extends ApiBase implements DepartmentApiDefineInterface
 {

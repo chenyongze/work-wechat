@@ -1,11 +1,11 @@
 <?php
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 /**
  * 异常基类
  *
  * Class BaseException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class BaseException extends \Exception
 {

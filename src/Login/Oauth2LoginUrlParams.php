@@ -1,14 +1,14 @@
 <?php
-namespace Zwei\WorkWechat\Login;
+namespace Yong\WorkWechat\Login;
 
-use Zwei\WorkWechat\Base;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\Base;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 /**
  * Oauth2 登录 url 参数
  *
  * Class Oauth2LoginUrlParams
- * @package Zwei\WorkWechat\Login
+ * @package Yong\WorkWechat\Login
  * @property string|null $scope 应用授权作用域
  * @property string|null $state 重定向后会带上state参数，企业可以填写a-zA-Z0-9的参数值，长度不可超过128个字节
  * @property string|null $agentId 企业应用的id: 当scope是snsapi_userinfo或snsapi_privateinfo时，该参数必填注意redirect_uri的域名必须与该应用的可信域名一致

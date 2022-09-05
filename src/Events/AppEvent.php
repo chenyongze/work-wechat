@@ -7,10 +7,10 @@
  * Time: 10:43
  */
 
-namespace Zwei\WorkWechat\Events;
+namespace Yong\WorkWechat\Events;
 
-use Zwei\WorkWechat\Exceptions\EventHandlerFailException;
-use Zwei\WorkWechat\Helpers\XmlHelper;
+use Yong\WorkWechat\Exceptions\EventHandlerFailException;
+use Yong\WorkWechat\Helpers\XmlHelper;
 
 class AppEvent  extends EventBase
 {

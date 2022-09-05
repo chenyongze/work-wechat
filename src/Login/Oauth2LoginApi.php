@@ -7,16 +7,16 @@
  * Time: 12:47
  */
 
-namespace Zwei\WorkWechat\Login;
+namespace Yong\WorkWechat\Login;
 
 
-use Zwei\WorkWechat\ApiBase;
+use Yong\WorkWechat\ApiBase;
 
 /**
  * oauth2 登录
  *
  * Class Oauth2LoginApi
- * @package Zwei\WorkWechat\Login
+ * @package Yong\WorkWechat\Login
  */
 class Oauth2LoginApi extends ApiBase
 {

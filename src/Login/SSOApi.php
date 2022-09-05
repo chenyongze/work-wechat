@@ -7,11 +7,11 @@
  * Time: 09:00
  */
 
-namespace Zwei\WorkWechat\Login;
+namespace Yong\WorkWechat\Login;
 
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
 
 class SSOApi extends ApiBase implements SSOApiDefineInterface
 {

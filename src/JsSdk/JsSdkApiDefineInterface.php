@@ -6,13 +6,13 @@
  * Time: 11:01
  */
 
-namespace Zwei\WorkWechat\JsSdk;
+namespace Yong\WorkWechat\JsSdk;
 
 /**
  * js sdk api
  *
  * Interface JsSdkApiDefineInterface
- * @package Zwei\WorkWechat\JsSdk
+ * @package Yong\WorkWechat\JsSdk
  */
 interface JsSdkApiDefineInterface
 {

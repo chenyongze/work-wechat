@@ -5,10 +5,10 @@
  * Date: 2019-06-04
  * Time: 11:47
  */
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 class ContactWayApi extends ApiBase implements ContactWayApiDefineInterface
 {

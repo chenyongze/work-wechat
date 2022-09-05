@@ -7,13 +7,13 @@
  * Time: 11:09
  */
 
-namespace Zwei\WorkWechat\Events;
+namespace Yong\WorkWechat\Events;
 
-use Zwei\WorkWechat\Base;
+use Yong\WorkWechat\Base;
 
 /**
  * Class EventParams
- * @package Zwei\WorkWechat\Events
+ * @package Yong\WorkWechat\Events
  *
  * @property string $msg_signature 消息签名
  * @property string $timestamp 时间戳

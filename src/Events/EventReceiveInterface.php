@@ -7,14 +7,14 @@
  * Time: 11:45
  */
 
-namespace Zwei\WorkWechat\Events;
+namespace Yong\WorkWechat\Events;
 
 /**
  * 接收事件
  *
  *
  * Interface EventReceiveInterface
- * @package Zwei\WorkWechat\Events
+ * @package Yong\WorkWechat\Events
  */
 interface EventReceiveInterface
 {

@@ -6,15 +6,15 @@
  * Time: 21:11
  */
 
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
 
 /**
  * 异步批量接口
  *
  * Interface AsyncApiDefineInterface
- * @package Zwei\WorkWechat\Contacts
+ * @package Yong\WorkWechat\Contacts
  */
 interface AsyncBatchApiDefineInterface
 {

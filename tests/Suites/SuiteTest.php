@@ -1,10 +1,10 @@
 <?php
-namespace Zwei\WorkWechat\Tests\Suites;
+namespace Yong\WorkWechat\Tests\Suites;
 
 
 use PHPUnit\Framework\TestCase;
-use Zwei\WorkWechat\Login\Oauth2LoginUrlParams;
-use Zwei\WorkWechat\Suites\SuiteApi;
+use Yong\WorkWechat\Login\Oauth2LoginUrlParams;
+use Yong\WorkWechat\Suites\SuiteApi;
 
 class SuiteTest extends TestCase
 {

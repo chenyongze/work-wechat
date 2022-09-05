@@ -7,7 +7,7 @@
  * Time: 07:47
  */
 
-namespace Zwei\WorkWechat\Events;
+namespace Yong\WorkWechat\Events;
 
 use Zwei\EventWork\Exception\ParamException;
 
@@ -15,7 +15,7 @@ use Zwei\EventWork\Exception\ParamException;
  * 应用事件处理结果
  *
  * Class AppEventResult
- * @package Zwei\WorkWechat\Events
+ * @package Yong\WorkWechat\Events
  */
 class AppEventResult
 {

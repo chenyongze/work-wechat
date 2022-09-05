@@ -7,18 +7,18 @@
  * Time: 07:41
  */
 
-namespace Zwei\WorkWechat\Suites;
+namespace Yong\WorkWechat\Suites;
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Helpers\CommonHelper;
-use Zwei\WorkWechat\Helpers\SuiteHelper;
-use Zwei\WorkWechat\Login\Oauth2LoginUrlParams;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\Helpers\SuiteHelper;
+use Yong\WorkWechat\Login\Oauth2LoginUrlParams;
 
 /**
  * 企业微信服务商api
  *
  * Class SuiteApi
- * @package Zwei\WorkWechat\Suites
+ * @package Yong\WorkWechat\Suites
  */
 class SuiteApi extends ApiBase implements SuiteApiDefineInterface
 {

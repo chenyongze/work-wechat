@@ -7,12 +7,12 @@
  * Time: 08:21
  */
 
-namespace Zwei\WorkWechat\Medias;
+namespace Yong\WorkWechat\Medias;
 
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 class MdeiaApi extends ApiBase implements MdeiaApiDefineInterface
 {

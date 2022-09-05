@@ -12,6 +12,6 @@ include_once dirname(dirname(__DIR__)).'/vendor/autoload.php';
 $suiteId = 'wwb724435140790a38';
 $suiteSecret = 'D3Exxspn8QnWpLzYLzfCMrS4xZcMukOMenkdFMMGaeY';
 $suiteTicket = 'eWrw5y_oCqrz3dhDPP4oxu0CuqH_qYd12EINCvLEZWcbKFGoQOA0rq3oDQner2vU';
-$obj = new \Zwei\WorkWechat\Suite($suiteId, $suiteSecret, $suiteTicket);
+$obj = new \Yong\WorkWechat\Suite($suiteId, $suiteSecret, $suiteTicket);
 list($suiteAccessToken, $expiresIn) = $obj->getSuiteAccessToken();
 var_dump($suiteAccessToken);

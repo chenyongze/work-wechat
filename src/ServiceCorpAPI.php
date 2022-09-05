@@ -1,5 +1,5 @@
 <?php
-namespace Zwei\WorkWechat;
+namespace Yong\WorkWechat;
 
 
 class ServiceCorpAPI extends \ServiceCorpAPI

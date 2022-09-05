@@ -6,15 +6,15 @@
  * Time: 11:01
  */
 
-namespace Zwei\WorkWechat\JsSdk;
+namespace Yong\WorkWechat\JsSdk;
 
-use Zwei\WorkWechat\ApiBase;
+use Yong\WorkWechat\ApiBase;
 
 /**
  * js sdk api
  *
  * Class JsSdkApi
- * @package Zwei\WorkWechat\JsSdk
+ * @package Yong\WorkWechat\JsSdk
  */
 class JsSdkApi extends ApiBase implements JsSdkApiDefineInterface
 {

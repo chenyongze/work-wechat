@@ -7,15 +7,15 @@
  * Time: 08:51
  */
 
-namespace Zwei\WorkWechat\Login;
+namespace Yong\WorkWechat\Login;
 
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
 
 /**
  * 单点登录
  *
  * Interface SSOApiDefineInterface
- * @package Zwei\WorkWechat\Login
+ * @package Yong\WorkWechat\Login
  */
 interface SSOApiDefineInterface
 {

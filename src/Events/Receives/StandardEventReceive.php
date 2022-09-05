@@ -7,10 +7,10 @@
  * Time: 20:50
  */
 
-namespace Zwei\WorkWechat\Events\Receives;
+namespace Yong\WorkWechat\Events\Receives;
 
 
-use Zwei\WorkWechat\Events\EventReceiveInterface;
+use Yong\WorkWechat\Events\EventReceiveInterface;
 
 /**
  * 处理普通事件

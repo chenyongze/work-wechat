@@ -5,8 +5,8 @@ ini_set("display_errors", "On");
 include_once dirname(dirname(__DIR__)).'/vendor/autoload.php';
 
 
-use Zwei\WorkWechat\ReceiveMessage;
-use Zwei\WorkWechat\Exceptions\DataCallbackUrlException;
+use Yong\WorkWechat\ReceiveMessage;
+use Yong\WorkWechat\Exceptions\DataCallbackUrlException;
 
 
 /**

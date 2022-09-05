@@ -5,9 +5,9 @@
  * Date: 2019-03-22
  * Time: 13:55
  */
-namespace Zwei\WorkWechat\Suites;
+namespace Yong\WorkWechat\Suites;
 
-use Zwei\WorkWechat\ApiBase;
+use Yong\WorkWechat\ApiBase;
 
 interface ServiceProvidersApiDefineInterface
 {

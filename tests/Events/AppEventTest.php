@@ -7,13 +7,13 @@
  * Time: 23:43
  */
 
-namespace Zwei\WorkWechat\Tests\Events;
+namespace Yong\WorkWechat\Tests\Events;
 
 use PHPUnit\Framework\TestCase;
-use Zwei\WorkWechat\Events\AppEvent;
-use Zwei\WorkWechat\Events\AppEventResult;
-use Zwei\WorkWechat\Events\Receives\StandardEventReceive;
-use Zwei\WorkWechat\Events\Receives\SuiteEventReceive;
+use Yong\WorkWechat\Events\AppEvent;
+use Yong\WorkWechat\Events\AppEventResult;
+use Yong\WorkWechat\Events\Receives\StandardEventReceive;
+use Yong\WorkWechat\Events\Receives\SuiteEventReceive;
 
 class AppEventTest extends TestCase
 {

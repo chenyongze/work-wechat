@@ -7,13 +7,13 @@
  * Time: 20:41
  */
 
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 /**
  * 事件处理失败异常
  *
  * Class EventHandlerFailException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class EventHandlerFailException extends BaseException
 {

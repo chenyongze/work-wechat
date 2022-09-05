@@ -1,13 +1,13 @@
 <?php
-namespace Zwei\WorkWechat\Suites;
+namespace Yong\WorkWechat\Suites;
 
-use Zwei\WorkWechat\Exceptions\CallbackUrlException;
+use Yong\WorkWechat\Exceptions\CallbackUrlException;
 
 /**
  * 接收企业微信消息
  *
  * Class ReceiveMessage
- * @package Zwei\WorkWechat
+ * @package Yong\WorkWechat
  */
 class ReceiveMessage
 {

@@ -1,15 +1,15 @@
 <?php
-namespace  Zwei\WorkWechat\Tests\Heplers;
+namespace  Yong\WorkWechat\Tests\Heplers;
 
 
 use PHPUnit\Framework\TestCase;
-use Zwei\WorkWechat\Helpers\XmlHelper;
+use Yong\WorkWechat\Helpers\XmlHelper;
 
 /**
  * 测试xml解析
  *
  * Class XmlHelperTest
- * @package Zwei\WorkWechat\Tests\Heplers
+ * @package Yong\WorkWechat\Tests\Heplers
  */
 class XmlHelperTest extends TestCase
 {

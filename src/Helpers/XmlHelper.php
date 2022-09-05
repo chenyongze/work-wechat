@@ -6,13 +6,13 @@
  * Date: 2018-08-11
  * Time: 09:27
  */
-namespace Zwei\WorkWechat\Helpers;
+namespace Yong\WorkWechat\Helpers;
 
 /**
  * xml操作
  *
  * Class XmlHelper
- * @package Zwei\WorkWechat
+ * @package Yong\WorkWechat
  */
 class XmlHelper
 {

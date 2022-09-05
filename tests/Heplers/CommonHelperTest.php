@@ -7,11 +7,11 @@
  * Time: 12:20
  */
 
-namespace Zwei\WorkWechat\Tests\Heplers;
+namespace Yong\WorkWechat\Tests\Heplers;
 
 
 use PHPUnit\Framework\TestCase;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 class CommonHelperTest extends TestCase
 {

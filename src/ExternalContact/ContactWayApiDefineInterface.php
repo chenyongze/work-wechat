@@ -5,7 +5,7 @@
  * Date: 2019-06-04
  * Time: 13:33
  */
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
 interface ContactWayApiDefineInterface
 {

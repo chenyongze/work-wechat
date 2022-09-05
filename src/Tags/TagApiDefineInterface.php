@@ -6,7 +6,7 @@
  * Time: 11:16
  */
 
-namespace Zwei\WorkWechat\Tags;
+namespace Yong\WorkWechat\Tags;
 
 
 interface TagApiDefineInterface

@@ -6,11 +6,11 @@
  * Time: 11:38
  */
 
-namespace Zwei\WorkWechat\Tags;
+namespace Yong\WorkWechat\Tags;
 
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 class TagApi extends ApiBase implements TagApiDefineInterface
 {

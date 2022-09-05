@@ -7,13 +7,13 @@
  * Time: 21:18
  */
 
-namespace Zwei\WorkWechat\Cache;
+namespace Yong\WorkWechat\Cache;
 
 /**
  * 应用换存key
  *
  * Class AppCacheKey
- * @package Zwei\WorkWechat\Cache
+ * @package Yong\WorkWechat\Cache
  */
 class AppCacheKey
 {

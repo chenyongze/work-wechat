@@ -6,13 +6,13 @@
  * Time: 6:19
  */
 
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
 /**
  * 联系人api
  *
  * Interface ContactApiDefineInterface
- * @package Zwei\WorkWechat\Contacts
+ * @package Yong\WorkWechat\Contacts
  */
 interface ContactApiDefineInterface
 {

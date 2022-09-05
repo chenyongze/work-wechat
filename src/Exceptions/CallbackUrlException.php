@@ -1,5 +1,5 @@
 <?php
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 /**
  * 回调URL验证异常
@@ -10,7 +10,7 @@ namespace Zwei\WorkWechat\Exceptions;
  * @see 数据回调URL: URL支持使用$CORPID$模板参数表示corpid
  *
  * Class DataCallbackUrlException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class CallbackUrlException extends BaseException
 {

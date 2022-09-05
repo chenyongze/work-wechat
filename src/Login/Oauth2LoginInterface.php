@@ -7,11 +7,11 @@
  * Date: 2018-08-11
  * Time: 08:35
  */
-namespace Zwei\WorkWechat\Login;
+namespace Yong\WorkWechat\Login;
 
 /**
  * Interface LoginInterface
- * @package Zwei\WorkWechat\Login
+ * @package Yong\WorkWechat\Login
  */
 interface Oauth2LoginInterface
 {

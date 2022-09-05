@@ -8,10 +8,10 @@
  * Time: 08:35
  */
 
-namespace Zwei\WorkWechat\Suites;
+namespace Yong\WorkWechat\Suites;
 
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
-use Zwei\WorkWechat\Login\Oauth2LoginUrlParams;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Login\Oauth2LoginUrlParams;
 
 /**
  * 企业微信服务商api
@@ -19,7 +19,7 @@ use Zwei\WorkWechat\Login\Oauth2LoginUrlParams;
  * @link https://work.weixin.qq.com/api/doc#10975
  *
  * Interface SuiteApiDefineInterface
- * @package Zwei\WorkWechat\Suites
+ * @package Yong\WorkWechat\Suites
  */
 interface SuiteApiDefineInterface
 {

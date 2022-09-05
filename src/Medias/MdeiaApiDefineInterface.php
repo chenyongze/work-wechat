@@ -6,14 +6,14 @@
  * Time: 21:47
  */
 
-namespace Zwei\WorkWechat\Medias;
+namespace Yong\WorkWechat\Medias;
 
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
 
 /**
  * 素材管理
  * Interface MdeiaApiDefineInterface
- * @package Zwei\WorkWechat\Medias
+ * @package Yong\WorkWechat\Medias
  */
 interface MdeiaApiDefineInterface
 {

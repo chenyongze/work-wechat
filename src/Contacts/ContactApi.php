@@ -7,16 +7,16 @@
  * Time: 16:37
  */
 
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 /**
  * 联系人api操作
  *
  * Class ContactApi
- * @package Zwei\WorkWechat\Contacts
+ * @package Yong\WorkWechat\Contacts
  */
 class ContactApi extends ApiBase implements ContactApiDefineInterface
 {

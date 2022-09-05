@@ -7,13 +7,13 @@
  * Time: 07:57
  */
 
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 
 /**
  * 参数异常
  * Class ParamsException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class ParamsException extends BaseException
 {

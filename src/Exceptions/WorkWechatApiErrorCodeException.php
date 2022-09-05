@@ -7,13 +7,13 @@
  * Time: 08:07
  */
 
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 /**
  * 企业微信结果返回错误码异常
  *
  * Class WorkWechatApiErrorCodeException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class WorkWechatApiErrorCodeException extends BaseException
 {

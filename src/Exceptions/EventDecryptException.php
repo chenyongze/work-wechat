@@ -7,13 +7,13 @@
  * Time: 11:20
  */
 
-namespace Zwei\WorkWechat\Exceptions;
+namespace Yong\WorkWechat\Exceptions;
 
 /**
  * 事件解密异常
  *
  * Class EventDecryptException
- * @package Zwei\WorkWechat\Exceptions
+ * @package Yong\WorkWechat\Exceptions
  */
 class EventDecryptException extends BaseException
 {

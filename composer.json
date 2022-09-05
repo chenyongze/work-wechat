@@ -22,8 +22,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Zwei\\WorkWechat\\": "src/",
-      "Zwei\\WorkWechat\\Tests\\": "tests/"
+      "Yong\\WorkWechat\\": "src/",
+      "Yong\\WorkWechat\\Tests\\": "tests/"
     },
     "files": [
       "lib/weworkapi_php-master/callback/WXBizMsgCrypt.php",

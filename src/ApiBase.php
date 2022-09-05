@@ -7,16 +7,16 @@
  * Time: 21:55
  */
 
-namespace Zwei\WorkWechat;
+namespace Yong\WorkWechat;
 
 use GuzzleHttp\Client;
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
 
 /**
  * Api基类
  *
  * Class ApiBase
- * @package Zwei\WorkWechat
+ * @package Yong\WorkWechat
  */
 class ApiBase
 {

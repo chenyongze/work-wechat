@@ -7,12 +7,12 @@
  * Time: 10:43
  */
 
-namespace Zwei\WorkWechat\Events;
+namespace Yong\WorkWechat\Events;
 
 
-use Zwei\WorkWechat\Exceptions\CallbackUrlException;
-use Zwei\WorkWechat\Exceptions\EventDecryptException;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\Exceptions\CallbackUrlException;
+use Yong\WorkWechat\Exceptions\EventDecryptException;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 
 class EventBase

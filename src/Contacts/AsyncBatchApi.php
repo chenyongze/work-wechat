@@ -6,19 +6,19 @@
  * Time: 21:40
  */
 
-namespace Zwei\WorkWechat\Contacts;
+namespace Yong\WorkWechat\Contacts;
 
 
-use Zwei\WorkWechat\ApiBase;
-use Zwei\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
-use Zwei\WorkWechat\Helpers\CommonHelper;
+use Yong\WorkWechat\ApiBase;
+use Yong\WorkWechat\Exceptions\WorkWechatApiErrorCodeException;
+use Yong\WorkWechat\Helpers\CommonHelper;
 
 /**
  *
  * 异步批量接口
  *
  * Class AsyncBatchApi
- * @package Zwei\WorkWechat\Contacts
+ * @package Yong\WorkWechat\Contacts
  */
 class AsyncBatchApi extends ApiBase implements AsyncBatchApiDefineInterface
 {

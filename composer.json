@@ -1,5 +1,5 @@
 {
-  "name": "zwei/work-wechat",
+  "name": "yongze/work-wechat",
   "description": "The enterprise wechat package.",
   "license": "MIT",
   "homepage": "https://github.com/qq1060656096/work-wechat",
@@ -9,8 +9,8 @@
   },
   "authors": [
     {
-      "name": "Zhao Wei Jie",
-      "email": "1060656096@qq.com"
+      "name": "yongze.chen",
+      "email": "yongze@dingtalk.com"
     }
   ],
   "require": {
